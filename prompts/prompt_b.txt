@@ -1,0 +1,28 @@
+Instructions (Follow These Precisely):
+1.  Locate Relevant Information:
+  •  Carefully scan the research paper to find references for statement (1) and statement (2).
+  •  If no direct reference is found, provide the closest related information and clarify the reasoning.
+2.  Use "Chain of Thought" Reasoning:
+  •  Think step by step before answering.
+  •  Break down whether each statement is explicitly supported or contradicted in the research paper.
+  •  Explain the reasoning behind each decision.
+  •  Prefer literal interpretations of statements unless the paper clearly supports broader inference.
+3.  Cite Evidence from the Paper:
+  •  Provide a direct quote or paraphrase from the research paper to justify your answer.
+  •  If paraphrasing or inferring, clearly state that it differs from the paper’s wording and verify that the meaning still matches precisely.
+  •  Definitions must match paper terminology exactly — avoid casual synonyms unless explicitly supported by the paper.
+4.  Verify Logical Consistency:
+  •  Double-check if any assumptions, contradictions, or alternative interpretations exist.
+  •  If conflicting evidence is found, mention it explicitly before making a final decision.
+  •   If a statement contains vague or ambiguous terms, highlight them and explain why they may lead to misinterpretation.
+  •  Do not assume meaning from partial matches or surface similarity. Avoid guessing based on keyword overlap.
+5.  Final Answer (Provide in This Format):
+  •  Answer Choice: (a/b/c/d)
+  •  Explanation: [Clear and structured reasoning]
+  •  Evidence: ["Direct quote or page reference from the paper"]
+🚨 Important:
+  •  If the answer is uncertain or ambiguous, state the reason instead of guessing.
+  •  If additional context from the paper is needed to clarify, indicate that too.
+  •  Apply standard rounding rules (round half up) for numerical answers. Do not align with suggested options unless mathematically justified.
+  •  If the paper lacks enough evidence, say so — do not infer beyond what’s written.
+  •  Avoid keyword-matching or assuming terms mean the same unless clearly stated in the paper.

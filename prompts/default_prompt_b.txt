@@ -1,0 +1,26 @@
+Instructions (Follow These Precisely):
+1.	Locate Relevant Information:
+   • Carefully scan the research paper to find references for statement (1) and statement (2).
+   • If no direct reference is found, provide the closest related information and clarify the reasoning.
+
+2.	Use "Chain of Thought" Reasoning:
+   • Think step by step before answering.
+   • Break down whether each statement is explicitly supported or contradicted in the research paper.
+   • Explain the reasoning behind each decision.
+
+3.	Cite Evidence from the Paper:
+   • Provide a direct quote or paraphrase from the research paper to justify your answer.
+   • If a statement is inferred rather than directly stated, clarify the reasoning.
+
+4.	Verify Logical Consistency:
+   • Double-check if any assumptions, contradictions, or alternative interpretations exist.
+   • If conflicting evidence is found, mention it explicitly before making a final decision.
+
+5.	Final Answer (Provide in This Format):
+   • Answer Choice: (a/b/c/d)
+   • Explanation: [Clear and structured reasoning]
+   • Evidence: ["Direct quote or page reference from the paper"]
+
+🚨 Important:
+   • If the answer is uncertain or ambiguous, state the reason instead of guessing.
+   • If additional context from the paper is needed to clarify, indicate that too.
