@@ -130,7 +130,7 @@ CI Logs ───▶ Error Extractor ───▶ Debugger ───▶ Develope
 Master’s in Software Engineering, Concordia University
 
 **Rabeya Khatun Muna**
-[rabeykhatunmuna@gmail.com]
+[rabeykhatunmuna@gmail.com](mailto:rabeykhatunmuna@gmail.com)
 
 ---
 
@@ -141,6 +141,8 @@ This project was developed as part of the SOEN 7481 course at Concordia Universi
 ```
 Sumit Kumar, Rabeya Khatun Muna. 2025. Repository-Level Automation for CI Build Repair using Multi-Agent. SOEN 7481’25, Montreal, QC, Canada.
 ```
+
+> 📄 **Read the full technical report**: [CI\_Build\_Repair\_paper.pdf](./report/CI_Build_Repair_paper.pdf)
 
 ---
 
